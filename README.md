@@ -1,6 +1,5 @@
 # micro-challenge-01
 Group: [Andrea Santi](https://github.com/AndreaSanti102), Maximilian Becht
-***
 
 We designed a panel is to visually organize various tasks within a communal garden. Tasks are displayed using an acrylic card system, allowing users to write and erase different assignments as needed. The panels are modular, featuring a simple interlocking mechanism that enables them to be connected in parallel.
 
